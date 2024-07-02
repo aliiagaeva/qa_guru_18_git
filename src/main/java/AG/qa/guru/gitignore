@@ -12,3 +12,5 @@ build/
 ### Gradle ###
 .gradle
 
+### Log ###
+*.log
